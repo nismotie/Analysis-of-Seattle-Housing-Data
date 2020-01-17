@@ -1,4 +1,4 @@
-# Statistical Testing on Premier League Data
+# Analysis of Seattle Houing Data
 
 Goals
 * Develop understanding of the housing market in Seattle through our analysis.
